@@ -1,0 +1,1 @@
+﻿Run, "C:\Users\Kirill\Desktop\fullPackAlex\alexDesktop\app.exe"
